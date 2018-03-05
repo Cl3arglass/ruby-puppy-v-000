@@ -15,6 +15,7 @@ end
   def all
     @@all.each do |name|
       puts name
+    end
   end
 
 
